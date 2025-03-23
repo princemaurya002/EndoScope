@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.princemaurya.endoscopy" />
+                  <option name="mobileSdkAppId" value="1:793139582681:android:cc9163b76cb819da35d0c8" />
+                  <option name="projectId" value="endoscopy-ae2a5" />
+                  <option name="projectNumber" value="793139582681" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

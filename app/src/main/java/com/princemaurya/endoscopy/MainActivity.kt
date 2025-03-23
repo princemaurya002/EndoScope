@@ -10,6 +10,7 @@ import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
     lateinit var btn:Button;
+    lateinit var btn2:Button;
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -18,6 +19,12 @@ class MainActivity : AppCompatActivity() {
         btn = findViewById(R.id.startCameraButton);
         btn.setOnClickListener {
             val Intent = Intent(this, CameraActivity::class.java);
+            startActivity(Intent)
+        }
+
+        btn2 = findViewById(R.id.usbCamerabtn);
+        btn2.setOnClickListener {
+            val Intent = Intent(this, USBCamerafeed::class.java);
             startActivity(Intent)
         }
 

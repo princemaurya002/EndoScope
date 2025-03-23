@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793139582681",
+    "project_id": "endoscopy-ae2a5",
+    "storage_bucket": "endoscopy-ae2a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793139582681:android:cc9163b76cb819da35d0c8",
+        "android_client_info": {
+          "package_name": "com.princemaurya.endoscopy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81roh-JK0Ln0D7_WoJttA35PC0sSBEEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
